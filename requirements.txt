@@ -2,4 +2,10 @@ python-dotenv
 pandas
 numpy
 
+pymongo
+certifi
 
+
+
+# -e .
+# run setup.py in last if have -e.
